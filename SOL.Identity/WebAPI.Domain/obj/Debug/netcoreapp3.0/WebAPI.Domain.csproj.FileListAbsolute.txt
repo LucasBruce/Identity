@@ -1,0 +1,9 @@
+C:\Users\lmatheus\source\repos\SOL.Identity\WebAPI.Domain\bin\Debug\netcoreapp3.0\WebAPI.Domain.deps.json
+C:\Users\lmatheus\source\repos\SOL.Identity\WebAPI.Domain\bin\Debug\netcoreapp3.0\WebAPI.Domain.dll
+C:\Users\lmatheus\source\repos\SOL.Identity\WebAPI.Domain\bin\Debug\netcoreapp3.0\WebAPI.Domain.pdb
+C:\Users\lmatheus\source\repos\SOL.Identity\WebAPI.Domain\obj\Debug\netcoreapp3.0\WebAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\lmatheus\source\repos\SOL.Identity\WebAPI.Domain\obj\Debug\netcoreapp3.0\WebAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lmatheus\source\repos\SOL.Identity\WebAPI.Domain\obj\Debug\netcoreapp3.0\WebAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\lmatheus\source\repos\SOL.Identity\WebAPI.Domain\obj\Debug\netcoreapp3.0\WebAPI.Domain.AssemblyInfo.cs
+C:\Users\lmatheus\source\repos\SOL.Identity\WebAPI.Domain\obj\Debug\netcoreapp3.0\WebAPI.Domain.dll
+C:\Users\lmatheus\source\repos\SOL.Identity\WebAPI.Domain\obj\Debug\netcoreapp3.0\WebAPI.Domain.pdb
